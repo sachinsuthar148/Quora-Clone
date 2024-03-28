@@ -1,0 +1,13 @@
+.post{
+    background-color: yellow;
+    margin: 20px 70px ;
+    padding: 10px;
+}
+.view{
+    background-color: yellow;
+    margin: 20px 70px ;
+    padding: 10px;
+}
+.user{
+    font-style: italic;
+}
